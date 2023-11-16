@@ -1,10 +1,5 @@
-div { background: padding-box url(Sem título.png) white center }
-div {
-    background-color: white;
-    background-image: url(Sem título.png);
-    background-repeat: repeat;
-    background-attachment: scroll;
-    background-position: center;
-    background-clip: padding-box;
-    background-origin: padding-box;
-    background-size: auto auto }
+body {
+  background: white url("pendant.png");
+  background-repeat: repeat-y;
+  background-position: center;
+}
