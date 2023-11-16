@@ -1,6 +1,10 @@
-body {
-  width: 100vw;
-  height: 100vh;
-  background: url('https://cdn.discordapp.com/attachments/843612004832641024/1174820641266995300/Sem20tC3ADtulo.png?ex=6568fbfb&is=655686fb&hm=4a7b4e712aa8c6bbbd91ea48b36cf9cebf7c301cac4418077e0eb57a0dcb2781&.jpg');
-  background-size: cover;
-}
+div { background: padding-box url(paper.jpg) white center }
+div {
+    background-color: white;
+    background-image: url(sem título.png);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-clip: padding-box;
+    background-origin: padding-box;
+    background-size: auto auto }
