@@ -1,7 +1,7 @@
-div { background: padding-box url(paper.jpg) white center }
+div { background: padding-box url(Sem título.png) white center }
 div {
     background-color: white;
-    background-image: url(sem título.png);
+    background-image: url(Sem título.png);
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: center;
